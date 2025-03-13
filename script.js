@@ -9,7 +9,7 @@ document.getElementById("pullCord").addEventListener("click", () => {
                 <div class="gif-container">
                     <img src="gift.gif" class="gif-animation">
                 </div>
-                <p class="question-text">¿Quieres Pasar El 24 Con Migo? 💖</p>
+                <p class="question-text">¿Quieres Pasar El 24 De Marzo Con Migo? 💖</p>
                 <div class="button-container">
                     <button id="yesButton">Sí</button>
                     <button id="noButton">No</button>
@@ -24,7 +24,7 @@ document.getElementById("pullCord").addEventListener("click", () => {
                     <div class="video-container">
                         <video src="Gato.mp4" autoplay class="thank-you-video"></video>
                     </div>
-                    <p class="thank-you-text">¡Sabía que dirías que sí, Te amo CCCT! 💕</p>
+                    <p class="thank-you-text">¡Sabía que dirías que sí Te Amooo muchoo! 💕</p>
                 </div>
             `;
         });
