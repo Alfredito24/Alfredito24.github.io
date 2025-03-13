@@ -24,7 +24,7 @@ document.getElementById("pullCord").addEventListener("click", () => {
                     <div class="video-container">
                         <video src="Gato.mp4" autoplay class="thank-you-video"></video>
                     </div>
-                    <p class="thank-you-text">¡Sabía que dirías que sí Te Amooo muchoo! 💕</p>
+                    <p class="thank-you-text">¡Sabía que dirías que sí, Te Amooo muchoo! 💕</p>
                 </div>
             `;
         });
